@@ -1,4 +1,5 @@
 # Recent Cards plugin for NodeBB's Persona Theme
+### This version sets a minimum of 4 cards to be displayed.
 
 This is an addon for the Persona theme which adds a recent cards component to the header of the homepage. It's inspired by the previous default theme, Lavender, which used Modern UI styling for the category layout.
 
