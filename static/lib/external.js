@@ -18,7 +18,7 @@ $(document).ready(function(){
 			if (ajaxifyData.recentCards.enableCarousel) {
 				$('#nodebb-plugin-recent-cards-min .recent-cards').bxSlider({
 					slideWidth: 292,
-					minSlides: 1,
+					minSlides: 4,
 					maxSlides: 4,
 					pager: ajaxifyData.recentCards.enableCarouselPagination ? true: false
 				});
